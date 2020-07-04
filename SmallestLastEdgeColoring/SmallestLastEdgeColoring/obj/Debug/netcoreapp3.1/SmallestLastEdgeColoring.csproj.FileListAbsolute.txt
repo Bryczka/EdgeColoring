@@ -1,0 +1,32 @@
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.exe
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.deps.json
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.runtimeconfig.json
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.runtimeconfig.dev.json
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.dll
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.pdb
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.csprojAssemblyReference.cache
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.AssemblyInfoInputs.cache
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.AssemblyInfo.cs
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.dll
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.pdb
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.genruntimeconfig.cache
+D:\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.csproj.CoreCompileInputs.cache
+C:\Users\mbry\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.csprojAssemblyReference.cache
+C:\Users\mbry\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.AssemblyInfoInputs.cache
+C:\Users\mbry\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.AssemblyInfo.cs
+C:\Users\mbry\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.csproj.CoreCompileInputs.cache
+C:\Users\mbry\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.dll
+C:\Users\mbry\OneDrive - Wojskowa Akademia Techniczna\WAT_SEM_8\TAL\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.pdb
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.exe
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.deps.json
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.runtimeconfig.json
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.runtimeconfig.dev.json
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.dll
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\bin\Debug\netcoreapp3.1\SmallestLastEdgeColoring.pdb
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.csprojAssemblyReference.cache
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.AssemblyInfoInputs.cache
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.AssemblyInfo.cs
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.csproj.CoreCompileInputs.cache
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.dll
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.pdb
+C:\Users\mbry\Desktop\SmallestLastEdgeColoring\SmallestLastEdgeColoring\obj\Debug\netcoreapp3.1\SmallestLastEdgeColoring.genruntimeconfig.cache
